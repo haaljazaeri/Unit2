@@ -1,4 +1,4 @@
-# Project 1 - *Flixster*
+# Project 3 - *Flixster*
 
 Submitted by: **Hassan AlJazaeri**
 
